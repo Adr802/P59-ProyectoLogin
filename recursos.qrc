@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/candado.png</file>
+        <file>img/usuario-de-perfil.png</file>
+        <file>proyectoLogin_en.qm</file>
+    </qresource>
+</RCC>
